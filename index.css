@@ -1,0 +1,9 @@
+
+html{
+    
+    background-image: url("../images/index.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    max-width: 100%;
+    height: auto;
+}
